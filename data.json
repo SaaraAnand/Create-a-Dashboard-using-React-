@@ -1,0 +1,94 @@
+{
+    "AB": {
+      "label": "Alberta",
+      "totalCases": 100000,
+      "totalTests": 1500000,
+      "totalDeaths": 1500,
+      "totalVaccinated": 750000
+    },
+    "BC": {
+      "label": "British Columbia",
+      "totalCases": 80000,
+      "totalTests": 1200000,
+      "totalDeaths": 1200,
+      "totalVaccinated": 600000
+    },
+    "MB": {
+      "label": "Manitoba",
+      "totalCases": 50000,
+      "totalTests": 800000,
+      "totalDeaths": 800,
+      "totalVaccinated": 400000
+    },
+    "NB": {
+      "label": "New Brunswick",
+      "totalCases": 10000,
+      "totalTests": 250000,
+      "totalDeaths": 200,
+      "totalVaccinated": 150000
+    },
+    "NL": {
+      "label": "Newfoundland and Labrador",
+      "totalCases": 12000,
+      "totalTests": 300000,
+      "totalDeaths": 250,
+      "totalVaccinated": 180000
+    },
+    "NT": {
+      "label": "Northwest Territories",
+      "totalCases": 500,
+      "totalTests": 50000,
+      "totalDeaths": 10,
+      "totalVaccinated": 20000
+    },
+    "NS": {
+      "label": "Nova Scotia",
+      "totalCases": 20000,
+      "totalTests": 350000,
+      "totalDeaths": 300,
+      "totalVaccinated": 120000
+    },
+    "NU": {
+      "label": "Nunavut",
+      "totalCases": 100,
+      "totalTests": 10000,
+      "totalDeaths": 2,
+      "totalVaccinated": 5000
+    },
+    "ON": {
+      "label": "Ontario",
+      "totalCases": 300000,
+      "totalTests": 5000000,
+      "totalDeaths": 4000,
+      "totalVaccinated": 9000000
+    },
+    "PE": {
+      "label": "Prince Edward Island",
+      "totalCases": 3000,
+      "totalTests": 70000,
+      "totalDeaths": 50,
+      "totalVaccinated": 25000
+    },
+    "QC": {
+      "label": "Quebec",
+      "totalCases": 250000,
+      "totalTests": 4000000,
+      "totalDeaths": 3000,
+      "totalVaccinated": 7000000
+    },
+    "SK": {
+      "label": "Saskatchewan",
+      "totalCases": 40000,
+      "totalTests": 700000,
+      "totalDeaths": 500,
+      "totalVaccinated": 200000
+    },
+    "YT": {
+      "label": "Yukon",
+      "totalCases": 1000,
+      "totalTests": 80000,
+      "totalDeaths": 20,
+      "totalVaccinated": 15000
+    }
+  }
+  
