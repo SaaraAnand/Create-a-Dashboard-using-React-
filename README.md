@@ -42,11 +42,14 @@ Edit
   "AB": { "totalCases": 50000, "totalTests": 1000000, "totalDeaths": 500, "totalVaccinated": 30000 },
   "BC": { "totalCases": 40000, "totalTests": 900000, "totalDeaths": 450, "totalVaccinated": 25000 }
 }
+
+
 Features
 ✔ Dynamic province selection
 ✔ Real-time data updates
 ✔ Clean and responsive UI
 ✔ Reusable components
+
 
 Future Enhancements
 🔹 Fetch live COVID-19 data from an external API
